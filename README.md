@@ -38,4 +38,4 @@ A few things on the workbench:
 
 ---
 
-<sub>☕ Fuel the experiments · Ko-fi</sub>
+<sub>☕ <a href="https://ko-fi.com/jripper">Fuel the experiments</a> · Ko-fi</sub>
