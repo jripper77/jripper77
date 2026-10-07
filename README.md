@@ -1,41 +1,31 @@
-<p align="center">
-  <img src="jripper-header.png" alt="JRIPPER — Technology × Design × Curiosity" width="100%">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="JRIPPER — punto di chiusura" src="assets/banner-light.svg" width="100%">
+</picture>
 
-### Technology × Design × Curiosity
+## Technology × Design × Curiosity
 
-I explore the intersection of **technology, design and creativity** — building, hacking and experimenting along the way.
+Un laboratorio personale dove costruisco, sperimento, fotografo e seguo quello che mi incuriosisce.
+Mi interessa come le persone percepiscono e vivono le interazioni — tra loro, con gli oggetti, con le interfacce.
 
-Software meets hardware. Automation fades into the background. And things should feel as good as they work.
+Costruisco cose, le rompo e ogni tanto riesco anche a sistemarle.
 
-### // BUILD
+### Registro di chiusura
 
-**AI & Automation · Home Assistant · IoT & Hardware**
+| | Area | Progetto | Stato |
+|:-:|---|---|---|
+| ◐ | IoT & Hardware | [bezel](https://github.com/jripper77/bezel) | in costruzione |
+| ○ | Esperimenti web | [wiki-proxy](https://github.com/jripper77/wiki-proxy) | aperto |
+| ○ | AI & Automation | [AutoGPT](https://github.com/jripper77/AutoGPT) | aperto |
 
-Small tools, connected things and solutions to problems that sometimes didn't need solving.
+<sub>bezel e AutoGPT sono fork: esplorazioni a partire da [Bezel Studio](https://github.com/slipalison/bezel) e [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT).</sub>
 
-### // DESIGN
+### Mi interessa
 
-**UX/UI · Graphic Design**
-
-Making things clearer, simpler and a little more interesting to look at. The interface is part of the experiment.
-
-### // EXPLORE
-
-**Photography · VR/XR**
-
-Different lenses, new perspectives and interfaces that don't stop at the edge of a screen.
-
-### // LAB
-
-This is where experiments end up. Some become useful. Some just teach me how not to do it next time.
-
-A few things on the workbench:
-
-- [bezel](https://github.com/jripper77/bezel) — exploring USB smart screens through a fork of [Bezel Studio](https://github.com/slipalison/bezel).
-- [wiki-proxy](https://github.com/jripper77/wiki-proxy) — a small corner of the lab.
-- [AutoGPT](https://github.com/jripper77/AutoGPT) — an earlier AI rabbit hole, forked from [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT).
+AI & Automation · Home Assistant · IoT & Hardware · UX/UI · Graphic Design · Fotografia · VR/XR · Musica · Cinema · Psicologia delle interazioni · Creatività in ogni sua forma
 
 ---
+
+<sub>○ aperto · ◐ in costruzione · ● chiuso · × rotto (per ora)</sub>
 
 <sub>☕ <a href="https://ko-fi.com/jripper">Fuel the experiments</a> · Ko-fi</sub>
