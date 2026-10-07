@@ -1,31 +1,31 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="JRIPPER — punto di chiusura" src="assets/banner-light.svg" width="100%">
+  <img alt="JRIPPER — closing point" src="assets/banner-light.svg" width="100%">
 </picture>
 
 ## Technology × Design × Curiosity
 
-Un laboratorio personale dove costruisco, sperimento, fotografo e seguo quello che mi incuriosisce.
-Mi interessa come le persone percepiscono e vivono le interazioni — tra loro, con gli oggetti, con le interfacce.
+A personal lab where I build, experiment, take photos and follow whatever sparks my curiosity.
+I'm interested in how people perceive and experience interactions — with each other, with objects and with interfaces.
 
-Costruisco cose, le rompo e ogni tanto riesco anche a sistemarle.
+I build things, break them and occasionally manage to fix them.
 
-### Registro di chiusura
+### Closure Log
 
-| | Area | Progetto | Stato |
+| | Area | Project | Status |
 |:-:|---|---|---|
-| ◐ | IoT & Hardware | [bezel](https://github.com/jripper77/bezel) | in costruzione |
-| ○ | Esperimenti web | [wiki-proxy](https://github.com/jripper77/wiki-proxy) | aperto |
-| ○ | AI & Automation | [AutoGPT](https://github.com/jripper77/AutoGPT) | aperto |
+| ◐ | IoT & Hardware | [bezel](https://github.com/jripper77/bezel) | under construction |
+| ○ | Web experiments | [wiki-proxy](https://github.com/jripper77/wiki-proxy) | open |
+| ○ | AI & Automation | [AutoGPT](https://github.com/jripper77/AutoGPT) | open |
 
-<sub>bezel e AutoGPT sono fork: esplorazioni a partire da [Bezel Studio](https://github.com/slipalison/bezel) e [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT).</sub>
+<sub>bezel and AutoGPT are forks: explorations built on [Bezel Studio](https://github.com/slipalison/bezel) and [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT).</sub>
 
-### Mi interessa
+### What I'm into
 
-AI & Automation · Home Assistant · IoT & Hardware · UX/UI · Graphic Design · Fotografia · VR/XR · Musica · Cinema · Psicologia delle interazioni · Creatività in ogni sua forma
+AI & Automation · Home Assistant · IoT & Hardware · UX/UI · Graphic Design · Photography · VR/XR · Music · Cinema · Psychology of interactions · Creativity in all its forms
 
 ---
 
-<sub>○ aperto · ◐ in costruzione · ● chiuso · × rotto (per ora)</sub>
+<sub>○ open · ◐ under construction · ● closed · × broken (for now)</sub>
 
 <sub>☕ <a href="https://ko-fi.com/jripper">Fuel the experiments</a> · Ko-fi</sub>
