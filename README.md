@@ -14,9 +14,12 @@ I build things, break them and occasionally manage to fix them.
 
 | | Area | Project | Status |
 |:-:|---|---|---|
+| ◐ | Browser tools & UX | **Steam Intel** · private project | alpha |
 | ◐ | IoT & Hardware | [bezel](https://github.com/jripper77/bezel) | under construction |
 | ○ | Web experiments | [wiki-proxy](https://github.com/jripper77/wiki-proxy) | open |
 | ○ | AI & Automation | [AutoGPT](https://github.com/jripper77/AutoGPT) | open |
+
+**Steam Intel** — a Chrome extension that brings price comparisons and game insights to Steam store pages and wishlists.
 
 <sub>bezel and AutoGPT are forks: explorations built on [Bezel Studio](https://github.com/slipalison/bezel) and [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT).</sub>
 
