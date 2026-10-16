@@ -33,4 +33,4 @@ AI & Automation · Home Assistant · IoT & Hardware · UX/UI · Graphic Design �
 
 <sub>○ open · ◐ under construction · ● closed · × broken (for now)</sub>
 
-<sub>☕ <a href="https://ko-fi.com/jripper">Fuel the experiments</a> · Ko-fi</sub>
+☕ <a href="https://ko-fi.com/jripper">Fuel the experiments</a> · Ko-fi
