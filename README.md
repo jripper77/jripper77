@@ -15,7 +15,7 @@ I build things, break them and occasionally manage to fix them.
 | | Area | Project | Status |
 |:-:|---|---|---|
 | ◐ | Browser tools & UX | [Steam Intel](https://chromewebstore.google.com/detail/pdiehpomaplnbohjcgomokbpffnlbjhk) | alpha |
-| ◐ | IoT & Hardware | [bezel](https://github.com/jripper77/bezel-evo) | under construction |
+| ◐ | IoT & Hardware | [Bezel Evo](https://github.com/jripper77/bezel-evo) | under construction |
 | ○ | Web experiments | [wiki-proxy](https://github.com/jripper77/wiki-proxy) | open |
 | ○ | AI & Automation | [AutoGPT](https://github.com/jripper77/AutoGPT) | open |
 
